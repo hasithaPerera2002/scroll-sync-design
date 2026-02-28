@@ -66,7 +66,7 @@ function ScrollSyncHero() {
         <video
           ref={videoRef}
           className="absolute inset-0 h-full w-full scale-[1.03] object-cover saturate-125 contrast-110"
-          src="/Cinematic_Restaurant_Hero_Video_Generated_2.mp4"
+          src="/dd.mp4"
           muted
           playsInline
           preload="metadata"
